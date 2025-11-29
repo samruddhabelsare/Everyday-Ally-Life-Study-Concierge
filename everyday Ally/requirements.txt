@@ -1,0 +1,3 @@
+# add to requirements.txt
+google-genai           # or google-generative-ai SDK package name used in your environment
+google-adk             # ADK Python package
